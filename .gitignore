@@ -1,6 +1,0 @@
-.env
-secrets.json
-.tmp/
-__pycache__/
-.vscode/
-*.pdf
