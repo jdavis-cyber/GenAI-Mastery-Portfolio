@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the GenAI Mastery Portfolio. This repository demonstrates advanced Generative AI engineering practices using a robust **3-Layer Governance Architecture**. This structure ensures scalable, secure, and maintainable agentic workflows.
+Welcome to my Generative AI Mastery Portfolio. This repository demonstrates advanced Generative AI engineering practices using a robust **3-Layer Governance Architecture**. This structure ensures scalable, secure, and maintainable agentic workflows.
 
 ## 3-Layer Architecture
 
